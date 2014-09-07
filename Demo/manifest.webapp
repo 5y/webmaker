@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "Iranmozilla",
+  "description": "Summer 2013 Iran-Zanjan Zcon5",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/images/icon.png",
+  },
+  "developer": {
+    "name": "Rehb",
+    "url": "http://yourawesomeapp.com"
+  },
+  
+  "default_locale": "en"
+}
